@@ -40,15 +40,15 @@
 
 - 使用Statistic, DL, ML方法解決問題達成目標
 
-##基礎建設(地端) 
+## 基礎建設(地端) 
 
 - 安裝伺服器版本ubuntu並使其可運行DT平台，DT相關參數權限設定
 
-##基礎建設(雲端) 
+## 基礎建設(雲端) 
 
 - 進行混和雲設定，Golang撰寫Backend，K8s與HBase Phoenix架構設計
 
-##視覺化 
+## 視覺化 
 
 - 將分析結果以圖表呈現並加入RWD功能，以Python撰寫Backend並取DB
 
